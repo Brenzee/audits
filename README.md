@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Smart Contract Audits and Web3 Developments
 
 Feel free to reach out for Web3 consulting, Web3 development, Smart Contract audits:
