@@ -29,6 +29,8 @@ Feel free to reach out for Web3 consulting, Web3 development, Smart Contract aud
 
 ## Code4rena Audit Competitions
 
+Code4rena profile: [Brenzee](https://code4rena.com/@Brenzee)
+
 ### [Venus Protocol](https://code4rena.com/contests/2023-05-venus-protocol-isolated-pools#top)
 
 Found 1H and 1M issues
