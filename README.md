@@ -1,5 +1,9 @@
 # Smart Contract Audits and Web3 Developments
 
+Solodit Profile: [Brenzee](https://solodit.xyz/user/brenzee)
+
+Code4rena Profile: [Brenzee](https://code4rena.com/@Brenzee)
+
 Feel free to reach out for Web3 consulting, Web3 development, Smart Contract audits:
 
 - Twitter [@BKWeb3](https://twitter.com/BKWeb3)
@@ -28,8 +32,6 @@ Feel free to reach out for Web3 consulting, Web3 development, Smart Contract aud
 3 High, 8 Medium
 
 ## Code4rena Audit Competitions
-
-Code4rena profile: [Brenzee](https://code4rena.com/@Brenzee)
 
 ### [Venus Protocol](https://code4rena.com/contests/2023-05-venus-protocol-isolated-pools#top)
 
