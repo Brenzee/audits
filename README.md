@@ -13,6 +13,9 @@ Feel free to reach out for Web3 consulting, Web3 development, Smart Contract aud
   - [Table of contents](#table-of-contents)
   - [Audit Contest Profiles](#audit-contest-profiles)
   - [Code4rena Audit Competitions](#code4rena-audit-competitions)
+    - [Venus Prime Audit](#venus-prime-audit)
+    - [Dopex Audit](#dopex-audit)
+    - [veRWA Audit](#verwa-audit)
     - [Tapioca DAO Audit](#tapioca-dao-audit)
     - [PoolTogether Audit](#pooltogether-audit)
     - [Venus Protocol Audit](#venus-protocol-audit)
@@ -29,6 +32,11 @@ Feel free to reach out for Web3 consulting, Web3 development, Smart Contract aud
     - [JOJO Exchange Audit](#jojo-exchange-audit)
     - [Footium Audit](#footium-audit)
     - [Blueberry Audit](#blueberry-audit)
+
+## Stats
+
+14 High issues reported
+15 Medium issues reported
 
 ## Audit Contest Profiles
 
