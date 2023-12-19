@@ -36,6 +36,7 @@ Feel free to reach out for Web3 consulting, Web3 development, Smart Contract aud
 ## Stats
 
 14 High issues reported
+
 15 Medium issues reported
 
 ## Audit Contest Profiles
