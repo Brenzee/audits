@@ -33,6 +33,7 @@ Feel free to reach out for Web3 consulting, Web3 development, Smart Contract aud
 ## Audit Contest Profiles
 
 Code4rena: [Brenzee](https://code4rena.com/@Brenzee)
+
 Sherlock: [Brenzee](https://audits.sherlock.xyz/watson/Brenzee)
 
 ## Code4rena Audit Competitions
@@ -40,6 +41,7 @@ Sherlock: [Brenzee](https://audits.sherlock.xyz/watson/Brenzee)
 ### [Venus Prime Audit](https://code4rena.com/audits/2023-09-venus-prime#top)
 
 Found 2H issue
+
 **3rd place out of 115**
 
 | Severity | Finding                                                                                                                                                                   | Notes               |
@@ -74,6 +76,7 @@ Found 1H issue
 ### [PoolTogether Audit](https://code4rena.com/contests/2023-07-pooltogether#top)
 
 Found 1H issue
+
 **12th place out of 111**
 
 | Severity | Finding                                                                                                                                                   | Notes                    |
