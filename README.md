@@ -11,7 +11,9 @@ Feel free to reach out for Web3 consulting, Web3 development, Smart Contract aud
 
 - [Smart Contract Audits and Web3 Developments](#smart-contract-audits-and-web3-developments)
   - [Table of contents](#table-of-contents)
-  - [Audit Contest Profiles](#audit-contest-profiles)
+  - [About me](#about-me)
+    - [Audit Contest Profiles](#audit-contest-profiles)
+  - [Stats](#stats)
   - [Code4rena Audit Competitions](#code4rena-audit-competitions)
     - [Venus Prime Audit](#venus-prime-audit)
     - [Dopex Audit](#dopex-audit)
@@ -33,17 +35,22 @@ Feel free to reach out for Web3 consulting, Web3 development, Smart Contract aud
     - [Footium Audit](#footium-audit)
     - [Blueberry Audit](#blueberry-audit)
 
+## About me
+
+My name is Brendons, people know me as BK. I am a software developer speciliazied in Web3 for almost 3 years. In my free time I participate in Smart Contract audit competitions.
+
+### Audit Contest Profiles
+
+| Platform  | Profile                                               |
+| --------- | ----------------------------------------------------- |
+| Code4rena | [Brenzee](https://code4rena.com/@Brenzee)             |
+| Sherlock  | [Brenzee](https://audits.sherlock.xyz/watson/Brenzee) |
+
 ## Stats
 
 14 High issues reported
 
 15 Medium issues reported
-
-## Audit Contest Profiles
-
-Code4rena: [Brenzee](https://code4rena.com/@Brenzee)
-
-Sherlock: [Brenzee](https://audits.sherlock.xyz/watson/Brenzee)
 
 ## Code4rena Audit Competitions
 
