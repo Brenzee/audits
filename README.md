@@ -39,7 +39,7 @@ Feel free to reach out for Web3 consulting, Web3 development, Smart Contract aud
 
 ## About me
 
-My name is Brendons, people know me as BK. I am a software developer speciliazied in Web3 for almost 3 years. In my free time I participate in Smart Contract audit competitions.
+My name is Brendons, people know me as BK. I am a software developer specialized in Web3 for almost 3 years. In my free time I participate in Smart Contract audit competitions.
 
 ### Audit Contest Profiles
 
