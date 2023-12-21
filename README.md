@@ -66,10 +66,10 @@ Found 2H issues
 
 **3rd place out of 115**
 
-| Severity | Finding                                                                                                                                                                   | Notes               |
-| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- |
-| High     | [Incorrect decimal usage in score calculation leads to reduced user reward earnings](https://github.com/code-423n4/2023-09-venus-findings/issues/122)                     | Selected for report |
-| High     | [Users can claim the Prime Token without waiting 90 days after irrevocable token is burned by the admin](https://github.com/code-423n4/2023-09-venus-findings/issues/199) |                     |
+| Severity | Finding                                                                                                                                                                   | Notes                  |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- |
+| High     | [Incorrect decimal usage in score calculation leads to reduced user reward earnings](https://github.com/code-423n4/2023-09-venus-findings/issues/122)                     | Selected for report 📄 |
+| High     | [Users can claim the Prime Token without waiting 90 days after irrevocable token is burned by the admin](https://github.com/code-423n4/2023-09-venus-findings/issues/199) |                        |
 
 ### [Dopex Audit](https://code4rena.com/audits/2023-08-dopex#top)
 
@@ -136,10 +136,10 @@ Found 3M issues
 
 Found 2M issues and made QA report
 
-| Severity | Finding                                                                                                                                                | Notes |
-| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ----- |
-| Medium   | [Pool tokens can be stolen via `PrivatePool.flashLoan` function from previous owner](https://github.com/code-423n4/2023-04-caviar-findings/issues/230) |       |
-| Medium   | [`changeFeeQuote` will fail for low decimal ERC20 tokens](https://github.com/code-423n4/2023-04-caviar-findings/issues/858)                            |       |
+| Severity | Finding                                                                                                                                                | Notes                  |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------- |
+| Medium   | [Pool tokens can be stolen via `PrivatePool.flashLoan` function from previous owner](https://github.com/code-423n4/2023-04-caviar-findings/issues/230) | Selected for report 📄 |
+| Medium   | [`changeFeeQuote` will fail for low decimal ERC20 tokens](https://github.com/code-423n4/2023-04-caviar-findings/issues/858)                            |                        |
 | QA       | [QA Report](https://github.com/code-423n4/2023-04-caviar-findings/blob/main/data/Brenzee-Q.md)                                                         |
 
 ### [Contest 225 Audit](https://code4rena.com/contests/2023-03-contest-225-contest#top)
