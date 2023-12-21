@@ -15,6 +15,7 @@ Feel free to reach out for Web3 consulting, Web3 development, Smart Contract aud
     - [Audit Contest Profiles](#audit-contest-profiles)
   - [Stats](#stats)
   - [Code4rena Audit Competitions](#code4rena-audit-competitions)
+    - [Revolution Protocol Audit](#revolution-protocol-audit)
     - [Venus Prime Audit](#venus-prime-audit)
     - [Dopex Audit](#dopex-audit)
     - [veRWA Audit](#verwa-audit)
@@ -27,6 +28,7 @@ Feel free to reach out for Web3 consulting, Web3 development, Smart Contract aud
     - [Contest 225 Audit](#contest-225-audit)
     - [Asymmetry Audit](#asymmetry-audit)
   - [Sherlock Audit Competitions](#sherlock-audit-competitions)
+    - [Nouns Builder Audit](#nouns-builder-audit)
     - [Index Update Audit](#index-update-audit)
     - [Index Audit](#index-audit)
     - [Iron Bank Audit](#iron-bank-audit)
@@ -48,15 +50,19 @@ My name is Brendons, people know me as BK. I am a software developer speciliazie
 
 ## Stats
 
-14 High issues reported
+15 High issues reported
 
 15 Medium issues reported
 
 ## Code4rena Audit Competitions
 
+### [Revolution Protocol Audit](https://code4rena.com/audits/2023-12-revolution-protocol#top)
+
+Results coming soon.
+
 ### [Venus Prime Audit](https://code4rena.com/audits/2023-09-venus-prime#top)
 
-Found 2H issue
+Found 2H issues
 
 **3rd place out of 115**
 
@@ -152,9 +158,17 @@ Found 1H issue
 
 ## Sherlock Audit Competitions
 
+### [Nouns Builder Audit](https://audits.sherlock.xyz/contests/111)
+
+Found 1H issue
+
+| Severity | Finding                                                                                                                                                 | Notes |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| High     | [Specific bid amounts will not allow the auction to be settled and will DoS](https://github.com/sherlock-audit/2023-09-nounsbuilder-judging/issues/206) |       |
+
 ### [Index Update Audit](https://audits.sherlock.xyz/contests/91)
 
-Found 1M issues
+Found 1M issue
 
 | Severity | Finding                                                                                                                                               | Notes |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
@@ -162,7 +176,7 @@ Found 1M issues
 
 ### [Index Audit](https://audits.sherlock.xyz/contests/81)
 
-Found 1M issues
+Found 1M issue
 
 | Severity | Finding                                                                                                               | Notes |
 | -------- | --------------------------------------------------------------------------------------------------------------------- | ----- |
@@ -170,7 +184,7 @@ Found 1M issues
 
 ### [Iron Bank Audit](https://audits.sherlock.xyz/contests/84)
 
-Found 2M issues
+Found 2M issue
 
 | Severity | Finding                                                                                                                        | Notes |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------ | ----- |
@@ -179,7 +193,7 @@ Found 2M issues
 
 ### [USSD Audit](https://audits.sherlock.xyz/contests/82)
 
-Found 4H and 1M issues
+Found 4H and 1M issue
 
 | Severity | Finding                                                                                                                                                            | Notes |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----- |
