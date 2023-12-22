@@ -52,15 +52,17 @@ My name is Brendons, people know me as BK. I am a software developer specialized
 
 #### Blockchain Developer @ Kirobo
 [Link](https://www.kirobo.io/)
+
 May 2022 - Present
 
-Responsible of developing Future Conditional Transaction platform, developing and maintaining [FCT TypeScript SDK](https://www.npmjs.com/package/@kiroboio/fct-core), and test smart contracts.
+Responsible for developing the Future Conditional Transaction platform, developing and maintaining the [FCT TypeScript SDK](https://www.npmjs.com/package/@kiroboio/fct-core), and testing smart contracts.
 
 #### Full Stack Developer @ KeyFi
 [Link](https://keyfi.com/)
+
 March 2021 - May 2022
 
-Responsible of developing and maintaining KeyFi and KeyFi Pro apps, including frontend and backend, and develop interactivity between smart contracts and frontend.
+Responsible for developing and maintaining KeyFi and KeyFi Pro apps, including frontend and backend, and developing interactivity between smart contracts and frontend.
 
 
 ## Stats
